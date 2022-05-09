@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 프로필
 ---
 
 ## skyzerotiger
