@@ -9,8 +9,8 @@ permalink:        pretty
 title:            skyzerotiger
 tagline:          ''
 description:      'Game & App Programmer'
-url:              http://skyzerotiger.com
-baseurl:          /
+url:              https://skyzerotiger.com
+baseurl:          https://skyzerotiger.com/
 
 author:
   name:           'skyzerotiger'
