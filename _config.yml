@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            skyzerotiger
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      'Game & App Programmer'
 url:              http://skyzerotiger.com
 baseurl:          /
