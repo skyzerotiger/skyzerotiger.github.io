@@ -10,7 +10,7 @@ title:            skyzerotiger
 tagline:          ''
 description:      'Game & App Programmer'
 url:              http://skyzerotiger.com
-baseurl:          /
+baseurl:          http://skyzerotiger.com
 
 author:
   name:           'skyzerotiger'
