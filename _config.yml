@@ -1,23 +1,23 @@
-title:            Balzac
+title:            skyzerotiger
 tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+# description:      
+# canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
   name:           skyzerotiger
-  avatar:         avatar.png
+  # avatar:         avatar.png
   bio:            "programmer"
   email:          skyzerotiger@gmail.com  
   # Plug in your disqus shortname!
 
 tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
+  standards:      "C/C++, C#, javascript"
+  #software:       ""
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           ko_KR
 
 # Links to include in top navigation
 # For external links add external: true
@@ -32,7 +32,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Korea/Seoul
 future:      true
 highlighter: pygments
 markdown:    kramdown
