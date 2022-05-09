@@ -1,58 +1,26 @@
-title:            skyzerotiger
-tagline:          A beautiful theme.
-# description:      
-# canonical: http://jekyll.gtat.me
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Owner/author information
-owner:
-  name:           skyzerotiger
-  # avatar:         avatar.png
-  bio:            "programmer"
-  email:          skyzerotiger@gmail.com  
-  # Plug in your disqus shortname!
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-tools:
-  standards:      "C/C++, C#, javascript"
-  #software:       ""
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-# Open Graph customization
-opengraph:
-  locale:           ko_KR
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about
-  - title: Github
-    url: https://github.com/skyzerotiger
-    external: true
-  
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Korea/Seoul
-future:      true
-highlighter: pygments
-markdown:    kramdown
+paginate:         5
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+# Custom vars
+version:          2.1.0
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-sass:
-    style: :compressed
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+github:
+  repo:           https://github.com/poole/hyde
