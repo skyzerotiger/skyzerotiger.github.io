@@ -5,16 +5,15 @@ title: 프로필
 
 ## skyzerotiger
 
-- programmer.
-- if something looks interesting, i make it.
+- 프로그래머
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzerotiger)](https://github.com/anuraghazra/github-readme-stats)
 
-## projects
+## 프로젝트
 
 - 
 
-## support me
+## 개발지원(Donate)
 - [buy me a coffee](https://www.buymeacoffee.com/skyzero)
 
 
