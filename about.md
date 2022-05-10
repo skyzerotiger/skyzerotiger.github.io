@@ -11,7 +11,7 @@ title: 프로필
 
 
 ## 프로젝트
-- szViewer(https://github.com/skyzerotiger/szViewer) - 이미지뷰어
+- [szViewer](https://github.com/skyzerotiger/szViewer) - 이미지뷰어
 
 
 ## 개발지원(Donate)
