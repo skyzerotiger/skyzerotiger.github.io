@@ -11,7 +11,8 @@ title: 프로필
    
 
 ### 연락 
-- [skyzerotiger@gmail.com](skyzerotiger@gmail.com)
+- [Discord](https://discord.com/invite/uxJXzNAkd6)
+
 
 ### 오픈 소스 프로젝트
 - [szViewer](https://github.com/skyzerotiger/szViewer) - 이미지뷰어
