@@ -15,7 +15,7 @@ title: 프로필
    
    
 ### 개발지원(Donate)
-- [buy me a coffee](https://www.buymeacoffee.com/skyzero)
+- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="skyzero" data-color="#50c53e" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
 
 
 
