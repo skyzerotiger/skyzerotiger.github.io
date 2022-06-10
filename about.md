@@ -7,7 +7,7 @@ title: 프로필
 - 프로그래머
 - C/C++, C#, Javascript
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzerotiger)](https://github.com/skyzerotiger)
+[![skyzerotiger's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyzerotiger)](https://github.com/skyzerotiger)
       
       
 ### 오픈 소스 프로젝트
