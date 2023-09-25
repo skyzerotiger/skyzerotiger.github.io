@@ -15,8 +15,8 @@ title: 프로필
 - [DDS2Movie-Maker](https://github.com/skyzerotiger/DDS2Movie-Maker) - 실시간 시트 애니메이션 최적화 툴
 - [DDS2Movie-Player](https://github.com/skyzerotiger/DDS2Movie-Player) - 실시간 시트 애니메이션 최적화 플레이어 예제
    
---- ### 개발지원(Donate)
---- - [buy me a coffee](https://www.buymeacoffee.com/skyzero)
+### 개발지원(Donate)
+- [buy me a coffee](https://www.buymeacoffee.com/skyzero)
 
 
 
